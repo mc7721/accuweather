@@ -1,0 +1,64 @@
+{
+    "name": "AccuWeather",
+    "description": "Weather forecast, local to international. World class weather radar plus your up to the minute weather report and current conditions",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/api-evangelist-site\/company\/logos\/pull_image_08-25-2019-08-49-pm.gif",
+    "tags": [
+        "have api",
+        "no api definition"
+    ],
+    "created": "2019-12-18",
+    "modified": "2019-12-18",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/accuweather\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "AccuWeather",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/api-evangelist-site\/company\/logos\/pull_image_08-25-2019-08-49-pm.gif",
+            "humanURL": "http:\/\/developer.accuweather.com",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/accuweather-openapi.json"
+                },
+                {
+                    "type": "x-postman-collecction",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/accuweather-postman-collection.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Crunchbase",
+            "url": "https:\/\/crunchbase.com\/organization\/accuweather-inc"
+        },
+        {
+            "type": "Documentation",
+            "url": "https:\/\/developer.accuweather.com\/apis"
+        },
+        {
+            "type": "FAQ",
+            "url": "https:\/\/developer.accuweather.com\/faq-page"
+        },
+        {
+            "type": "Terms of Service",
+            "url": "https:\/\/developer.accuweather.com\/legal"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/breakingweather"
+        },
+        {
+            "type": "Website",
+            "url": "https:\/\/developer.accuweather.com"
+        },
+        {
+            "type": "Website",
+            "url": "http:\/\/developer.accuweather.com"
+        }
+    ]
+}
